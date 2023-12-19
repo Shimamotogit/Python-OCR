@@ -13,6 +13,9 @@
 - [Tesseractを使ったOCRの実装](#Tesseract)
 - [使い方](#how_to_use)
 
+##### Tesseract OCR プログラムをexe化しました。
+#### ***[ここからexeファイルをインストールできます。](https://tk-2025.oops.jp/app/ocr/OCR%E3%82%A2%E3%83%97%E3%83%AA.zip)***
+
 <a id="summary"></a>
 
 ## 概要
